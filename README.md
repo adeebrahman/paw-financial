@@ -1,5 +1,4 @@
-# Instructions
-
+### Instructions
 
 1. Download All Dependencies
 2. Start frontend server by `npm start` in main directory
@@ -20,7 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) to view app in the browser.
 #### GET `/api/v1/accounts` : Fetch all account data
 #### POST `/api/v1/accounts` : Create new account
 #### GET `/api/v1/accounts/:id` : Fetch account data by ID
-#### GET `/api/v1/transfer` : Transfer between two accounts
+#### POST `/api/v1/transfer` : Transfer between two accounts
 #### GET `/api/v1/transactions` : Fetch all transactions
 #### GET `/api/v1/transactions/:id` : Fetch account specific transactions
 
